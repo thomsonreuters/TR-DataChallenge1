@@ -14,7 +14,7 @@ Thomson Reuters is challenging you today to leverage machine learning and natura
 ## Data
 Training dataset:  7917 rows, 4 columns
 
-ID     -    unique identifier for each news
+ID     -    unique identifier for each news <br>
 BODY   -    news article
 TITLE  -    news headline
 TOPICS -    three topics (our y label)
