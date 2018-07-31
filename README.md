@@ -8,32 +8,32 @@ As a multinational mass media and information firm, Thomson Reuters delivers qua
 Thomson Reuters is challenging you today to leverage machine learning and natural language processing to build an algorithm that can automatically classify news into different categories. If you are as obsessed as we are with deep learning, you are encouraged to create a headline summarizer which helps you earn extra points. 
 
 ## Description
-(I) Given news headlines, build a model to classify them into one of the three news categories.  
+(I) Given news headlines, build a model to classify them into one of the three news categories.  <br>
 (II) Optional Task: Based on news body, create a model to generate news headline.   
 
 ## Data
 Training dataset:  7917 rows, 4 columns
 
 ID     -    unique identifier for each news <br>
-BODY   -    news article
-TITLE  -    news headline
+BODY   -    news article<br>
+TITLE  -    news headline<br>
 TOPICS -    three topics (our y label)
 
 Testing dataset:   3393 rows, 3 columns
 
 ## Submission 
-Send your code and submission file to tr-gracehopper@gmail.com 
-(I) Name your code competition2a and your result submission2a.csv which should strictly follow the rules below:
+Send your code and submission file to tr-gracehopper@gmail.com <br>
+(I) Name your code competition2a and your result submission2a.csv which should strictly follow the rules below:<br>
 
 
-(II) If you choose to complete the optional task, Name your code competition2b and your result submission2b.csv which should strictly follow the rules below:
+(II) If you choose to complete the optional task, Name your code competition2b and your result submission2b.csv which should strictly follow the rules below:<br>
 
 
 ## Evaluation
 Accuracy rate =  (correctly predicted class / total testing class) × 100%
 
 ## Rules
-Sharing code or data including our raw data and your result data is not permitted
-One person cannot participate with more than one user accounts.  You can’t resubmit and resend your result to our email
-Hand-labelling is not allowed on the testing dataset
-Competition Timeline.  Start Date: Sep-10-2018.  End Date: Sep-15-2018 11:59 PM CST. 
+Sharing code or data including our raw data and your result data is not permitted<br>
+One person cannot participate with more than one user accounts.  You can’t resubmit and resend your result to our email. <br>
+Hand-labelling is not allowed on the testing dataset<br>
+Competition Timeline.  Start Date: Sep-10-2018.  End Date: Sep-15-2018 11:59 PM CST. <br>
