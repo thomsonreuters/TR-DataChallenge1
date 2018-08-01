@@ -1,7 +1,7 @@
 # Competition II- Reuters News Classification & Summarization
 ## Introduction 
 
-![alt text](https://github.com/katherine-shiqi/TR-DataChallenge1/blob/master/1.png)
+![alt text](https://github.com/katherine-shiqi/TR-DataChallenge1/blob/master/git_image/1.png)
 
 As a multinational mass media and information firm, Thomson Reuters delivers quality news and latest stories to the world driven by intelligent technologies. With numerous news coming up each day, it’s resource-intensive to manually categorize them. As a leader in information technology field, TR highly emphasizes Artificial Intelligence to harness the world’s content.
 
@@ -14,6 +14,8 @@ Thomson Reuters is challenging you today to leverage machine learning and natura
 ## Data
 Training dataset:  7917 rows, 4 columns
 
+![alt text](https://github.com/katherine-shiqi/TR-DataChallenge1/blob/master/git_image/3.png)
+
 ID     -    unique identifier for each news <br>
 BODY   -    news article<br>
 TITLE  -    news headline<br>
@@ -25,8 +27,11 @@ Testing dataset:   3393 rows, 3 columns
 Send your code and submission file to tr-gracehopper@gmail.com <br>
 (I) Name your code competition2a and your result submission2a.csv which should strictly follow the rules below:<br>
 
+![alt text](https://github.com/katherine-shiqi/TR-DataChallenge1/blob/master/git_image/4.png)
 
 (II) If you choose to complete the optional task, Name your code competition2b and your result submission2b.csv which should strictly follow the rules below:<br>
+
+![alt text](https://github.com/katherine-shiqi/TR-DataChallenge1/blob/master/git_image/5.png)
 
 
 ## Evaluation
