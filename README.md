@@ -38,7 +38,9 @@ Send your code and submission file to tr-gracehopper@gmail.com <br>
 Accuracy rate =  (correctly predicted class / total testing class) × 100%
 
 ## Rules
-Sharing code or data including our raw data and your result data is not permitted<br>
+You agree not to transmit, duplicate, publish, redistribute or otherwise provide or make available the Competition Data to any party not participating in the Competition. <br>
 One person cannot participate with more than one user accounts.  You can’t resubmit and resend your result to our email. <br>
 Hand-labelling is not allowed on the testing dataset<br>
 Competition Timeline.  Start Date: Sep-10-2018.  End Date: Sep-15-2018 11:59 PM CST. <br>
+You agree to only use our provided training dataset for model building. Using other sources is prohibited.<br>
+Thomson Reuter reserves the right of final decision on the interpretation of these Terms and Conditions. <br>
