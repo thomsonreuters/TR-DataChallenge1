@@ -86,14 +86,16 @@ TITLE  -    your predicted summary (None)
 
 ## Evaluation and Score
 
-(I) Problem 1 (100 points)
+(I) Problem 1 (100 points)<br>
+
 You will get up to 100 points totally based on the accuracy rate of the submission CSV (firstname-lastname-result1.csv). The formula is listed below:
 
 Accuracy rate =  (correctly predicted class / total testing class) × 100%
 
 We will review your code to check plagiarism. If we find a high similarity between your code and other participants' code or code published online such as on Github, Kaggle, etc, you won't earn points. 
 
-(II) Problem 2 (50 points)
+(II) Problem 2 (50 points)<br>
+
 This is a bonus problem which is not required. You will get up to 50 points based on the code review and results review. Review committee at Thomson Reuters will determine the score for Problem 2.
 
 If we find a high similarity between your code and other participants' code or code published online such as on Github, Kaggle, etc, you won't earn points. 
