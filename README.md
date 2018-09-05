@@ -6,7 +6,7 @@
 
 As a multinational mass media and information firm, Thomson Reuters delivers quality news and latest stories to the world driven by intelligent technologies. With numerous news coming up each day, it’s resource-intensive to manually categorize them. As a leader in the information technology field, TR highly emphasizes Artificial Intelligence to harness the world’s content.
 
-Thomson Reuters is challenging you today to leverage machine learning and natural language processing to build an algorithm that can automatically classify news into different categories. To earn more points, we encourage you to take the bonus question to build a news headline summarization based on news body, which might require Deep Learning. 
+Thomson Reuters is challenging you today to leverage machine learning and natural language processing to build an algorithm that can automatically classify news into different categories. To earn more points, we encourage you to take the bonus problem to build a news headline summarization based on news body, which might require Deep Learning. 
 
 
 
