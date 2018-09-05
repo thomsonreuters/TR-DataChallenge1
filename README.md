@@ -89,9 +89,9 @@ If we find a high similarity between your code and other participants' code or c
 
 
 ## Rules
-You agree not to transmit, duplicate, publish, redistribute or otherwise provide or make available the Competition Data to any party not participating in the Competition. <br>
-One person cannot participate with more than one user accounts.  You can’t resubmit and resend your result to our email. <br>
-Hand-labelling is not allowed on the testing dataset<br>
-Competition Timeline.  Start Date: Sep-10-2018.  End Date: Sep-15-2018 11:59 PM CST. <br>
-You agree to only use our provided training dataset for model building. Using other sources is prohibited.<br>
-Thomson Reuters reserves the right of final decision on the interpretation of these Terms and Conditions. <br>
+<li>You agree not to transmit, duplicate, publish, redistribute or otherwise provide or make available the Competition Data to any party not participating in the Competition. </li>
+<li>One person cannot participate with more than one user accounts.  You can’t resubmit and resend your result to our email. </li>
+<li>Hand-labelling is not allowed on the testing dataset</li>
+<li>Competition Timeline.  Start Date: Sep-10-2018.  End Date: Sep-15-2018 11:59 PM CST. </li>
+<li>You agree to only use our provided training dataset for model building. Using other sources is prohibited.</li>
+<li>Thomson Reuters reserves the right of final decision on the interpretation of these Terms and Conditions.</li>
