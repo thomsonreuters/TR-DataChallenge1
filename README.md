@@ -1,4 +1,4 @@
-# Competition II- Reuters News Classification & Summarization
+# Data Challenge I- Reuters News Classification & Summarization
 
 ## Introduction 
 
