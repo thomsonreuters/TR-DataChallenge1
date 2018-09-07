@@ -33,7 +33,7 @@ TITLE  -    news headline<br>
 TOPIC  -    your predicted result (None)
 
 
-## Problem 2: News Headline Summarization
+## Problem 2: News Headline Summarization(Optional-Bonus Points)
 
 ### Problem2-Description
 
